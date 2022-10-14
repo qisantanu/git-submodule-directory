@@ -1,0 +1,3 @@
+[submodule "youtube-repositories"]
+	path = youtube-repositories
+	url = git@github.com:qisantanu/youtube-repositories.git
